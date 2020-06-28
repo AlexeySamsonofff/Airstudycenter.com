@@ -1,0 +1,5 @@
+@include('schooladmin.layout.header')
+@include('schooladmin.layout.nav')
+@include('schooladmin.layout.sidebar')
+@yield('content')
+@include('schooladmin.layout.footer')

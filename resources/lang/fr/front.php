@@ -1,0 +1,18 @@
+<?php 
+return[ 'discounted'=>'Remise', 
+'courses'=>'Cours', 
+'discountedtext'=>"Apprendre l'anglais: une chose qui fera l'objet de nombreuses réductions n'est pas un produit physique. Au lieu de cela, vous pouvez donner ou suivre des cours de formation et commencer votre nouvelle carrière en apprenant rapidement les résolutions.", 
+'popular'=>'Populaire', 
+'cities'=>'Villes', 
+'allcities'=>'Voir toutes les villes', 
+'allschool'=>'Voir toutes les écoles', 
+'populartext'=>"Trouvez la meilleure école d'anglais au meilleur prix.Comparaison de la qualité, des critiques et des offres spéciales des cours de groupe pour adultes pour apprendre l'anglais au Royaume-Uni.", 
+'premium'=>'Langue Premium', 
+'schools'=>'Écoles', 
+'premiumtext'=>'Classement Premium des écoles de langue dans les villes classées par popularité en fonction de nos étudiants.Cliquez sur un pays ou une ville pour obtenir la liste des écoles de langue, évaluations et réservations.', 
+'allcourses'=>'Voir tous les cours', 
+'ourtestimonials'=>'Nos témoignages', 
+'topcourses'=>'Top cours',
+'review'=>'La revue',
+'years'=>'années',
+];

@@ -1,0 +1,102 @@
+/*================================================================================
+	Item Name: Stack - Responsive Admin Theme
+	Version: 1.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.schooladminlogin fieldset.form-group.row {
+    margin: 12px;
+}
+.schooladminlogin fieldset.form-group.row .form-check-label {
+    padding: 0px 3px;
+}
+.submenu {
+    position: absolute;
+    left: -20px;
+    z-index: 100;
+    width: 135px;
+    display: none;
+    margin-left: 10px;
+    padding: 40px 0 5px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+.add-quantity{width:50%; padding:1rem; margin:auto; }
+.btn-minus.btn-dark, .btn-plus.btn-dark {
+    background: #00b5b8;
+    border-color: #00b5b8;
+}
+.btn-minus {
+    cursor: pointer;
+    padding-right: 10px;
+    border: 1px solid gray;
+    border-radius: 100%;
+    border-right: 0;
+    width: 22px;
+    height: 22px;
+    font-size: 9px;
+    float: left;
+    text-align: center;
+    line-height: 13px;
+    padding: 4px; 
+}
+.btn-plus {
+    
+    cursor: pointer;
+    padding-right: 10px;
+    border: 1px solid gray;
+    border-radius: 100%;
+    border-right: 0;
+    width: 22px;
+    height: 22px;
+    font-size: 9px;
+    float: right;
+    text-align: center;
+    line-height: 13px;
+    padding: 4px;
+}
+div.add-quantity input {
+    margin: 0;
+    padding-left: 5px;
+    font-size: 16px;
+    padding-right: 5px;
+    width:80px;
+    text-align: center;
+    border: 0
+}
+
+.ind_acco .card-body ,.shared_acco .card-body {
+    padding: 20px;
+}
+.ind_acco label ,.shared_acco label{
+    width:10%;
+}
+.ind_acco input,.shared_acco input {
+    width: 26%;
+    padding: 8px;
+    margin-left: 11px;
+}
+select#ind_availability {
+    width: 26%;
+    padding: 8px;
+    margin-left: 11px;
+}
+
+.enquirydetail{
+    border-style: solid;
+    border-color: #ade0e0;
+    font-size: 16px;
+    margin:5px 28px;
+    color:#8398B6;
+}
+.shadow-textarea{
+    background-color:#eaebee;
+    border-style: solid;
+    border-color: #eaebee;
+    border-width: 20px;
+}

@@ -1,0 +1,37 @@
+<?php
+return[ 
+'comments'=>'Yorumlar',	
+'reviews'=>'yorumlar',
+'course_quality'=>'Kurs Kalitesi',
+'tutor'=>'Özel öğretmen',	
+'budget'=>'Bütçe',
+'other'=>'Diğer',	
+'courses'=>'Dersler', 
+'home'=>'Ev', 
+'showing'=>'gösterme', 
+'results'=>'Sonuçlar', 
+'search'=>'Arama', 
+'review'=>'gözden geçirmek', 
+'hours_week'=>'saat / hafta',
+'give_heart'=>'Kalbini ver',
+'love_it'=>'Onu seviyorum',
+'wt_learn'=>'Ne Öğreneceğim?',
+'student_review'=>'Öğrenci Yorumları',
+'comment'=>'Yorum Yap',
+'add_review'=>'İnceleme ekle',
+'leave_comment'=>'Yorum Yap',
+'name'=>'isim',
+'your_email'=>'E-posta adresiniz',
+'your_comment'=>'Senin yorumun',
+'post_comment'=>'Yorum Gönder',
+'logged_msz'=>'Yorum yapabilmek için giriş yapmış olmanız gerekir.',
+'registration_fee'=>'Kayıt ücreti',
+'recommended_school'=>'Tavsiye Edilen Okul',
+'years'=>'yıl',
+'course'=>'kurs',
+'other_course'=>'Diğer kurslar',
+'ttc'=>'Bu kursu al',
+
+ ];
+
+?>

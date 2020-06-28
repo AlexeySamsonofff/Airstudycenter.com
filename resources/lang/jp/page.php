@@ -1,0 +1,12 @@
+<?php
+return[
+'insurance_list'=>'保険リスト',		
+'welcome_to'=>'へようこそ',
+'asc'=>'航空研究センター',
+'explore'=>'私たちのソリューションが提供しているものを探る',
+'subscribe1'=>'申し込む',
+'us'=>'米国',
+'your_email'=>'あなたのEメール',
+'subscribe2'=>'申し込む',
+'read_more'=>'もっと読む',
+];

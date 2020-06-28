@@ -1,0 +1,35 @@
+<?php
+
+return[
+'receive_link'=>'lütfen kullanıcı adınızı ya da e-posta adresinizi girin. E-posta yoluyla yeni bir şifre oluşturmak için bir bağlantı alacaksınız',
+'insurance'=>'Sigorta',
+'about_us'=>'Hakkımızda',
+'popular_post'=>'Popüler gönderi',
+'quick_link'=>'Hızlı Linkler',
+'partner'=>'Ortak',
+'school'=>'Okul',
+'accommodation'=>'Konaklama',
+'office'=>'Ofis',
+'about_us_detail'=>"Okuyucunun, bir sayfanın okunabilir içeriği, 'İçeriği burada, içeriği' mizanpajına bakarken okunabilir bir İngilizce gibi göründüğü zaman dikkatini dağıtacağı uzun bir zamandır.",
+
+'copy_right'=>'© 2018 Hava Eğitim Merkezi. Tüm hakları Saklıdır',
+'signin'=>'Oturum aç',
+'email'=>'E-posta',
+'password'=>'Parola',
+'remember_me'=>'Beni Hatırla',
+'forgot_password'=>'Şifreyi unut',
+'sign_up'=>'Kaydol',
+'not_a_member'=>'Henüz üye değil misiniz',
+'c_password'=>'Şifreyi Onayla',
+'agree_term_condition'=>'Hükümlere ve koşullara katılıyorum',
+'register_now'=>'Şimdi üye Ol',
+'continue_with'=>'veya devam edin',
+'facebook'=>'Facebook',
+'google'=>'Google',
+'sign_in_here'=>'Oturum açın',
+'already_member'=>'Zaten üye misiniz? ',
+'forget_password'=>'Şifreyi unut',
+'get_new_password'=>'Yeni Şifre Al',
+'name'=>'isim',
+
+];

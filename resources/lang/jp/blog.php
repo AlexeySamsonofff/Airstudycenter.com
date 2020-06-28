@@ -1,0 +1,14 @@
+<?php
+return[
+'blog'=>'ブログ',
+'home'=>'ホーム',
+'search'=>'サーチ',
+'categories'=>'カテゴリー',
+'recent'=>'最近の投稿',
+'readmore'=>'続きを読む',
+'comment'=>'コメント',
+'leavecomment'=>'コメントを残す',
+'postcomment'=>'コメントを投稿',
+'pre_post'=>'前の投稿',
+'next_post'=>'次の投稿',
+];

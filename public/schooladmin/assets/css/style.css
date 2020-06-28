@@ -1,0 +1,76 @@
+/*================================================================================
+	Item Name: Stack - Responsive Admin Theme
+	Version: 1.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.schooladminlogin fieldset.form-group.row {
+    margin: 12px;
+}
+.schooladminlogin fieldset.form-group.row .form-check-label {
+    padding: 0px 3px;
+}
+.submenu {
+    position: absolute;
+    left: -20px;
+    z-index: 100;
+    width: 135px;
+    display: none;
+    margin-left: 10px;
+    padding: 40px 0 5px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+
+
+.selectmulticourse select#select2-icons {
+    width: 100% !important;
+}
+.selectmulticourse span.select2.select2-container.select2-container--default {
+    width: 100% !important;
+}
+span.remove_course.btn.btn-danger,span.remove_accomodation.btn.btn-danger,span.remove_insurence.btn.btn-danger,span.remove_visa.btn.btn-danger {
+    float: right;
+}
+#submitData .w-100 {
+
+    float: left;
+}
+select.Select_course {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.transportincrement {
+    float: left;
+    width: 100%;
+}
+.transportincrement button {
+    margin-top: 26px;
+}
+.transportvalue {
+    float: left;
+    width: 100%;
+}
+.transportvalue button {
+    margin-top: 26px;
+}
+.class_div_discount input,.class_div_commission input {
+    padding: 15px;
+    width: 200px;
+    height: 28px;
+    margin-right: 10px;
+    line-height: 20px;
+}
+.class_div_discount label,.class_div_commission label {
+    font-size: 14px;
+    margin-right: 10px;
+    background: #00B5B8;
+    padding: 12px;
+    color: #fff;
+    line-height: 9px;
+}

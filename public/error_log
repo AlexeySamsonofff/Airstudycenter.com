@@ -1,0 +1,30 @@
+[05-Dec-2019 12:31:28 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/winter51/asc.winter51.com/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 8
+[05-Dec-2019 12:31:28 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/winter51/asc.winter51.com/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 19
+[05-Dec-2019 12:31:38 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/winter51/asc.winter51.com/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 8
+[05-Dec-2019 12:31:38 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/winter51/asc.winter51.com/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 19
+[05-Dec-2019 12:32:05 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/winter51/asc.winter51.com/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 8
+[05-Dec-2019 12:32:05 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/winter51/asc.winter51.com/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 19
+[12-Dec-2019 15:10:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18878464 bytes) in /home/winter51/asc.winter51.com/storage/framework/views/8f2770985f312aa3d2a998518eaa4d6f90cea982.php on line 245
+[12-Dec-2019 15:10:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1310720 bytes) in /home/winter51/asc.winter51.com/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 326
+[12-Dec-2019 15:10:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 53248 bytes) in Unknown on line 0
+[12-Dec-2019 15:10:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18878464 bytes) in /home/winter51/asc.winter51.com/storage/framework/views/8f2770985f312aa3d2a998518eaa4d6f90cea982.php on line 245
+[12-Dec-2019 15:10:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1310720 bytes) in /home/winter51/asc.winter51.com/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 326
+[12-Dec-2019 15:10:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 53248 bytes) in Unknown on line 0
+[12-Dec-2019 15:12:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18878464 bytes) in /home/winter51/asc.winter51.com/storage/framework/views/8f2770985f312aa3d2a998518eaa4d6f90cea982.php on line 241
+[12-Dec-2019 15:12:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1310720 bytes) in /home/winter51/asc.winter51.com/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 326
+[12-Dec-2019 15:12:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 53248 bytes) in Unknown on line 0
+[12-Dec-2019 15:12:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18878464 bytes) in /home/winter51/asc.winter51.com/storage/framework/views/8f2770985f312aa3d2a998518eaa4d6f90cea982.php on line 241
+[12-Dec-2019 15:12:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1310720 bytes) in /home/winter51/asc.winter51.com/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 326
+[12-Dec-2019 15:12:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 53248 bytes) in Unknown on line 0
+[12-Dec-2019 15:12:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18878464 bytes) in /home/winter51/asc.winter51.com/storage/framework/views/8f2770985f312aa3d2a998518eaa4d6f90cea982.php on line 241
+[12-Dec-2019 15:12:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1310720 bytes) in /home/winter51/asc.winter51.com/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 326
+[12-Dec-2019 15:12:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 53248 bytes) in Unknown on line 0
+[17-Dec-2019 13:22:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/winter51/asc.winter51.com/bootstrap/helpers.php on line 25
+[17-Dec-2019 13:22:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/winter51/asc.winter51.com/bootstrap/helpers.php on line 25
+[17-Dec-2019 13:22:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/winter51/asc.winter51.com/bootstrap/helpers.php on line 25
+[30-Jan-2020 11:30:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20975616 bytes) in /home/winter51/asc.winter51.com/app/Http/Controllers/Front/MainController.php on line 1991
+[30-Jan-2020 11:30:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/winter51/asc.winter51.com/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php on line 30
+[30-Jan-2020 11:30:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20975616 bytes) in /home/winter51/asc.winter51.com/app/Http/Controllers/Front/MainController.php on line 1991
+[30-Jan-2020 11:30:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/winter51/asc.winter51.com/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php on line 30
+[30-Jan-2020 11:31:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20975616 bytes) in /home/winter51/asc.winter51.com/app/Http/Controllers/Front/MainController.php on line 1991
+[30-Jan-2020 11:31:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/winter51/asc.winter51.com/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 23
